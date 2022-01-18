@@ -1,7 +1,14 @@
-En el capítulo 2 Introducción vamos a presentar los sistemas de control de versiones, qué son, qué
+En el capítulo 2 Introducción se presentará los sistemas de control de versiones, qué son, qué
 problemática solucionan y quiénes deberían usar un sistema de control de versiones. Veremos los
 distintos tipos de sistemas de control de versiones atendiendo a su arquitectura (local, centralizado
 y distribuido), realizaremos una breve reseña histórica de cómo se creó Git y cuáles son sus
 características fundamentales.
 En el capítulo 3 Instalación vamos a explicar brevemente cómo se instala Git en los 3 sistemas
 operativos más utilizados actualmente: Windows, Linux (Debian y Fedora) y OS X.
+En el capítulo 4 Primeros pasos veremos cómo obtener ayuda de Git, cómo se configura Git por
+primera vez e introduciremos una serie de conceptos básicos pero fundamentales para trabajar con
+Git: repositorio, commit, las zonas en Git, los estados de un archivo, el flujo de trabajo básico, SHA-
+1, HEAD y rama. A continuación veremos cómo se inicializa un repositorio, cómo se añaden
+archivos al repositorio, cómo se realizan los commits, cómo se gestionan los cambios en los
+archivos, cómo se renombran archivos, cómo se borran archivos y cómo se ignoran archivos que
+no queremos controlar con Git.
