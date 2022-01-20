@@ -4,3 +4,19 @@ body
     text-align: center;
     font-family: Arial, Helvetica, sans-serif;
 }
+#marco_big
+{
+    width: 70%;
+    padding: 1em;
+    text-align: left;
+    border: 1px solid crimson;
+    margin: 0 auto;
+}
+#marco_big h1
+{
+    font-size: 20px;
+}
+#marco_big h2
+{
+    font-size: 18px;
+}
