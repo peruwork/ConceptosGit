@@ -12,3 +12,7 @@ Git: repositorio, commit, las zonas en Git, los estados de un archivo, el flujo 
 archivos al repositorio, cómo se realizan los commits, cómo se gestionan los cambios en los
 archivos, cómo se renombran archivos, cómo se borran archivos y cómo se ignoran archivos que
 no queremos controlar con Git.
+En el capítulo 5 Ramas veremos qué son las ramas, por qué usarlas, cómo crearlas, cómo ver las
+que tenemos, cómo cambiar de rama, cómo renombrar una rama, cómo borrar una rama, cómo
+fusionar el contenido de dos ramas y cómo arreglar conflictos entre su contenido. También
+veremos con funciona el rebase y el stash.
