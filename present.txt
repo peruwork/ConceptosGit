@@ -16,3 +16,7 @@ En el capítulo 5 Ramas veremos qué son las ramas, por qué usarlas, cómo crea
 que tenemos, cómo cambiar de rama, cómo renombrar una rama, cómo borrar una rama, cómo
 fusionar el contenido de dos ramas y cómo arreglar conflictos entre su contenido. También
 veremos con funciona el rebase y el stash.
+En el capítulo 6 Historial veremos cómo poder filtrar y realizar búsquedas en los distintos
+elementos de un proyecto.
+En el capítulo 7 Cambios en el proyecto veremos cómo poder filtrar y visualizar los cambios que
+van teniendo lugar a lo largo del transcurso del proyecto
