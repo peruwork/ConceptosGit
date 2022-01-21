@@ -1,17 +1,39 @@
 body
 {
-    color: rgb(6, 22, 238);
+    color: #333;
     text-align: center;
-    font-family: Arial, Helvetica, sans-serif;
+    font-family: Arial;
+    font-size: 16px;
+    margin: 0;
+    padding: 0;
 }
+
+#contenido
+{
+    background: #33A;
+    box-shadow: 0px 2px 20px 0px rgba(0,0,0,0.5);
+    color: white;
+    font-weight: bold;
+    margin: 0;
+    padding: 0.5em;
+}
+
+#contenido #tagline
+{
+    padding: 0 0 0 1em;
+    font-weight: normal;
+    font-size: 0.8em;
+}
+
 #marco_big
 {
     width: 70%;
-    padding: 1em;
+    padding: 0;
     text-align: left;
-    border: 1px solid crimson;
+    border: 1px solid #DDD;
     margin: 0 auto;
 }
+
 #marco_big h1
 {
     font-size: 20px;
@@ -19,4 +41,8 @@ body
 #marco_big h2
 {
     font-size: 18px;
+}
+#conceptos
+{
+    padding: 1em;
 }
